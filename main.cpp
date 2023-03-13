@@ -1,6 +1,6 @@
 #include <iostream>
+#include <conio.h>
 
-#include "conio.h"
 #include "cartas.h"
 #include "pilha.h"
 #include "listase.h"
